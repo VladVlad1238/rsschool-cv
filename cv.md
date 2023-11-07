@@ -4,7 +4,7 @@
 * Location: Kolín, Czech Republic
 * Phone: +420 608 691 300
 * Email: vladislavmediol@gmail.com
-* GitHub: https://github.com/VladVlad1238
+* GitHub: [](https://github.com/VladVlad1238)
 * LinkedIn: https://www.linkedin.com/in/vladyslav-sikalo-60704b25a/
 
 ## About me
@@ -15,7 +15,7 @@
  I hope that my soft-skills and hard-skills that i will get on this course will help me to find job like Front-End developer
  My main goal is to be a part of EPAM Czech Republic!  
 
- ## Skills
+## Skills
  * HTML5
  * CSS3
  * JS Vanilla, ES6
@@ -28,6 +28,7 @@
  * Git
  * GitHub
  
+## Code
 `
 const arrOfNums = [5, 10, 20, 115, 11, 1]
 
