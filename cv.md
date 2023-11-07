@@ -43,3 +43,25 @@ const findBiggest = (arr) => {
 }
 
 `
+
+# Work experience
+At this moment i dont have commercial experience, but on my another course i created some web-sites and apps
+
+* https://vladvlad1238.github.io/SD-code-project-1/
+* https://vladvlad1238.github.io/portfolio-site/
+* https://vladvlad1238.github.io/Counter-App/
+* https://vladvlad1238.github.io/Expenses-App/
+* https://vladvlad1238.github.io/blog-app/
+* https://vladvlad1238.github.io/Firebase-Movie-List/
+* https://vladvlad1238.github.io/Movie-Search-App/
+* https://vladvlad1238.github.io/memes-app/
+* https://vladvlad1238.github.io/Shopping-App-Firebase/
+
+# Education 
+Luhansk Nation Agrarian University 
+Mgr Agriculture Eng.
+
+SD.CODE - Front-End dev course 
+
+# Language
+KET A2 certification (B1 in progress)
