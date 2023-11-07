@@ -14,3 +14,32 @@
  I have good soft-skills, because for the last four years i am working in HR 
  I hope that my soft-skills and hard-skills that i will get on this course will help me to find job like Front-End developer
  My main goal is to be a part of EPAM Czech Republic!  
+
+ ## Skills
+ * HTML5
+ * CSS3
+ * JS Vanilla, ES6
+ * React.js
+ * Vite
+ * Firebase
+ * BEM
+ * Figma
+ * VS Code
+ * Git
+ * GitHub
+ 
+`
+const arrOfNums = [5, 10, 20, 115, 11, 1]
+
+const findBiggest = (arr) => {
+  let result = 0;
+
+  for (let i = 0; i < arr.length; i++) {
+    if(arr[i] > result) {
+      result = arr[i]
+    }
+  }
+  return result
+}
+
+`
