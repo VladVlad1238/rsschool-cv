@@ -51,3 +51,28 @@ return result
 }
 
 `
+
+# Work experience
+
+At this moment i dont have commercial experience, but on my another course i created some web-sites and apps
+
+- [Metrika web-site](https://vladvlad1238.github.io/SD-code-project-1/)
+- [Portfolio site](https://vladvlad1238.github.io/portfolio-site/)
+- [Expenses App](https://vladvlad1238.github.io/Expenses-App/)
+- [Blog App](https://vladvlad1238.github.io/blog-app/)
+- [Firebase Movie-list APP](https://vladvlad1238.github.io/Firebase-Movie-List/)
+- [Movie-Search App](https://vladvlad1238.github.io/Movie-Search-App/)
+- [Memes App](https://vladvlad1238.github.io/memes-app/)
+- [Shopping-Firebase App](https://vladvlad1238.github.io/Shopping-App-Firebase/)
+
+# Education
+
+Luhansk Nation Agrarian University
+Mgr Agriculture Eng.
+
+SD.CODE - Front-End dev course
+Udemy - React, Next,js course
+
+# Language
+
+English - B1
